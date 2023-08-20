@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/newsapitest/news_api_test/BuildConfig.java
+ com.newsapitest.news_api_test.BuildConfig

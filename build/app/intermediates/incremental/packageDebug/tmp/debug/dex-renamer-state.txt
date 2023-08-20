@@ -1,0 +1,4 @@
+#Sun Aug 20 17:09:29 ICT 2023
+base.0=D\:\\project_flutter\\news_api_test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
